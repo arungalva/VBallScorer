@@ -5,3 +5,5 @@ Note: This program is to be used with Live Text software
 Please Read the documentation pdf under the resources folder for more information
 
 Please feel free to add new features or report any bugs encountered
+
+<b>Progect Partner:</b> Edisson Diolanda Flores
