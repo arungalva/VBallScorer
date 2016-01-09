@@ -6,4 +6,4 @@ Please Read the documentation pdf under the resources folder for more informatio
 
 Please feel free to add new features or report any bugs encountered
 
-<b>Progect Partner:</b> Edisson Diolanda Flores
+<b>Project Partner:</b> Edisson Diolanda Flores
