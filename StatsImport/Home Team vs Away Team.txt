@@ -1,0 +1,106 @@
+HOME TEAM SERVE PERCENTAGES
+SP_Home Team Player 1=0
+SP_Home Team Player 2=0
+SP_Home Team Player 3=0
+SP_Home Team Player 4=0
+SP_Home Team Player 5=0
+SP_Home Team Player 6=0
+SP_Home Team Player 7=0
+SP_Home Team Player 8=0
+SP_Home Team Player 9=0
+SP_Home Team Player 10=0
+
+
+HOME TEAM PLAYER BLOCKS
+PB_Home Team Player 1=0
+PB_Home Team Player 2=0
+PB_Home Team Player 3=0
+PB_Home Team Player 4=0
+PB_Home Team Player 5=0
+PB_Home Team Player 6=0
+PB_Home Team Player 7=0
+PB_Home Team Player 8=0
+PB_Home Team Player 9=0
+PB_Home Team Player 10=0
+
+
+HOME TEAM PLAYER SPIKE KILLS
+SK_Home Team Player 1=0
+SK_Home Team Player 2=0
+SK_Home Team Player 3=0
+SK_Home Team Player 4=0
+SK_Home Team Player 5=0
+SK_Home Team Player 6=0
+SK_Home Team Player 7=0
+SK_Home Team Player 8=0
+SK_Home Team Player 9=0
+SK_Home Team Player 10=0
+
+
+AWAY TEAM SERVE PERCENTAGES
+SP_Away Team Player 1=0
+SP_Away Team Player 2=0
+SP_Away Team Player 3=0
+SP_Away Team Player 4=0
+SP_Away Team Player 5=0
+SP_Away Team Player 6=0
+SP_Away Team Player 7=0
+SP_Away Team Player 8=0
+SP_Away Team Player 9=0
+SP_Away Team Player 10=0
+SP_Away Team Player 11=0
+SP_Away Team Player 12=0
+SP_Away Team Player 13=0
+SP_Away Team Player 14=0
+SP_Away Team Player 15=0
+SP_Away Team Player 16=0
+SP_Away Team Player 17=0
+SP_Away Team Player 18=0
+SP_Away Team Player 19=0
+SP_Away Team Player 20=0
+
+
+AWAY TEAM PLAYER BLOCKS
+PB_Away Team Player 1=0
+PB_Away Team Player 2=0
+PB_Away Team Player 3=0
+PB_Away Team Player 4=0
+PB_Away Team Player 5=0
+PB_Away Team Player 6=0
+PB_Away Team Player 7=0
+PB_Away Team Player 8=0
+PB_Away Team Player 9=0
+PB_Away Team Player 10=0
+PB_Away Team Player 11=0
+PB_Away Team Player 12=0
+PB_Away Team Player 13=0
+PB_Away Team Player 14=0
+PB_Away Team Player 15=0
+PB_Away Team Player 16=0
+PB_Away Team Player 17=0
+PB_Away Team Player 18=0
+PB_Away Team Player 19=0
+PB_Away Team Player 20=0
+
+
+AWAY TEAM PLAYER SPIKE KILLS
+SK_Away Team Player 1=0
+SK_Away Team Player 2=0
+SK_Away Team Player 3=0
+SK_Away Team Player 4=0
+SK_Away Team Player 5=0
+SK_Away Team Player 6=0
+SK_Away Team Player 7=0
+SK_Away Team Player 8=0
+SK_Away Team Player 9=0
+SK_Away Team Player 10=0
+SK_Away Team Player 11=0
+SK_Away Team Player 12=0
+SK_Away Team Player 13=0
+SK_Away Team Player 14=0
+SK_Away Team Player 15=0
+SK_Away Team Player 16=0
+SK_Away Team Player 17=0
+SK_Away Team Player 18=0
+SK_Away Team Player 19=0
+SK_Away Team Player 20=0

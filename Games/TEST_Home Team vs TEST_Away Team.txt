@@ -1,0 +1,252 @@
+BASIC HOME TEAM INFORMATION
+Home Team Name=TEST_Home Team
+Home Team Logo=resource/images/default_user_picture.png
+
+
+BASIC AWAY TEAM INFORMATION
+Away Team Name=TEST_Away Team
+Away Team Logo=resource/images/default_user_picture.png
+
+
+HOME TEAM PLAYER NAMES
+Player 1 Name=Home Team Player 1
+Player 2 Name=Home Team Player 2
+Player 3 Name=Home Team Player 3
+Player 4 Name=Home Team Player 4
+Player 5 Name=Home Team Player 5
+Player 6 Name=Home Team Player 6
+Player 7 Name=Home Team Player 7
+Player 8 Name=Home Team Player 8
+Player 9 Name=Home Team Player 9
+Player 10 Name=Home Team Player 10
+
+
+Current Set Number=1
+
+
+AWAY TEAM PLAYER NAMES
+Player 1 Name=Away Team Player 1
+Player 2 Name=Away Team Player 2
+Player 3 Name=Away Team Player 3
+Player 4 Name=Away Team Player 4
+Player 5 Name=Away Team Player 5
+Player 6 Name=Away Team Player 6
+Player 7 Name=Away Team Player 7
+Player 8 Name=Away Team Player 8
+Player 9 Name=Away Team Player 9
+Player 10 Name=Away Team Player 10
+Player 11 Name=Away Team Player 11
+Player 12 Name=Away Team Player 12
+Player 13 Name=Away Team Player 13
+Player 14 Name=Away Team Player 14
+Player 15 Name=Away Team Player 15
+Player 16 Name=Away Team Player 16
+Player 17 Name=Away Team Player 17
+Player 18 Name=Away Team Player 18
+Player 19 Name=Away Team Player 19
+Player 20 Name=Away Team Player 20
+
+
+HOME TEAM PLAYER NUMBERS
+Player 1 Number=1
+Player 2 Number=2
+Player 3 Number=3
+Player 4 Number=4
+Player 5 Number=5
+Player 6 Number=6
+Player 7 Number=7
+Player 8 Number=8
+Player 9 Number=9
+Player 10 Number=10
+
+
+AWAY TEAM PLAYER NUMBERS
+Player 1 Number=1
+Player 2 Number=2
+Player 3 Number=3
+Player 4 Number=4
+Player 5 Number=5
+Player 6 Number=6
+Player 7 Number=7
+Player 8 Number=8
+Player 9 Number=9
+Player 10 Number=10
+Player 11 Number=11
+Player 12 Number=12
+Player 13 Number=13
+Player 14 Number=14
+Player 15 Number=15
+Player 16 Number=16
+Player 17 Number=17
+Player 18 Number=18
+Player 19 Number=19
+Player 20 Number=20
+
+
+HOME TEAM PLAYER PICTURES
+Player 1 Picture=resource/images/default_user_picture.png
+Player 2 Picture=resource/images/default_user_picture.png
+Player 3 Picture=resource/images/default_user_picture.png
+Player 4 Picture=resource/images/default_user_picture.png
+Player 5 Picture=resource/images/default_user_picture.png
+Player 6 Picture=resource/images/default_user_picture.png
+Player 7 Picture=resource/images/default_user_picture.png
+Player 8 Picture=resource/images/default_user_picture.png
+Player 9 Picture=resource/images/default_user_picture.png
+Player 10 Picture=resource/images/default_user_picture.png
+
+
+AWAY TEAM PLAYER PICTURES
+Player 1 Picture=resource/images/default_user_picture.png
+Player 2 Picture=resource/images/default_user_picture.png
+Player 3 Picture=resource/images/default_user_picture.png
+Player 4 Picture=resource/images/default_user_picture.png
+Player 5 Picture=resource/images/default_user_picture.png
+Player 6 Picture=resource/images/default_user_picture.png
+Player 7 Picture=resource/images/default_user_picture.png
+Player 8 Picture=resource/images/default_user_picture.png
+Player 9 Picture=resource/images/default_user_picture.png
+Player 10 Picture=resource/images/default_user_picture.png
+Player 11 Picture=resource/images/default_user_picture.png
+Player 12 Picture=resource/images/default_user_picture.png
+Player 13 Picture=resource/images/default_user_picture.png
+Player 14 Picture=resource/images/default_user_picture.png
+Player 15 Picture=resource/images/default_user_picture.png
+Player 16 Picture=resource/images/default_user_picture.png
+Player 17 Picture=resource/images/default_user_picture.png
+Player 18 Picture=resource/images/default_user_picture.png
+Player 19 Picture=resource/images/default_user_picture.png
+Player 20 Picture=resource/images/default_user_picture.png
+
+
+HOME TEAM PLAYERS ON COURT NAMES
+Player 1 Name=Home Team Player 1
+Player 2 Name=Home Team Player 2
+Player 3 Name=Home Team Player 3
+Player 4 Name=Home Team Player 4
+Player 5 Name=Home Team Player 5
+Player 6 Name=Home Team Player 6
+Player 7 Name=Home Team Player 10
+
+
+AWAY TEAM PLAYERS ON COURT NAMES
+Player 1 Name=Away Team Player 1
+Player 2 Name=Away Team Player 2
+Player 3 Name=Away Team Player 3
+Player 4 Name=Away Team Player 4
+Player 5 Name=Away Team Player 5
+Player 6 Name=Away Team Player 6
+
+
+HOME TEAM PLAYERS ON COURT NUMBERS
+Player 1 Number=1
+Player 2 Number=2
+Player 3 Number=3
+Player 4 Number=4
+Player 5 Number=5
+Player 6 Number=6
+Player 7 Number=10
+
+
+AWAY TEAM PLAYERS ON COURT NUMBERS
+Player 1 Number=1
+Player 2 Number=2
+Player 3 Number=3
+Player 4 Number=4
+Player 5 Number=5
+Player 6 Number=6
+
+
+HOME TEAM PLAYERS ON BENCH NAMES
+Player 1 Name=Home Team Player 7
+Player 2 Name=Home Team Player 8
+Player 3 Name=Home Team Player 9
+Player 4 Name=Home Team Player 8
+
+
+AWAY TEAM PLAYERS ON BENCH NAMES
+Player 1 Name=Away Team Player 7
+Player 2 Name=Away Team Player 8
+Player 3 Name=Away Team Player 9
+Player 4 Name=Away Team Player 10
+Player 5 Name=Away Team Player 11
+Player 6 Name=Away Team Player 12
+Player 7 Name=Away Team Player 13
+Player 8 Name=Away Team Player 14
+Player 9 Name=Away Team Player 15
+Player 10 Name=Away Team Player 16
+Player 11 Name=Away Team Player 17
+Player 12 Name=Away Team Player 18
+Player 13 Name=Away Team Player 19
+Player 14 Name=Away Team Player 20
+
+
+HOME TEAM PLAYERS ON BENCH NUMBERS
+Player 1 Number=7
+Player 2 Number=8
+Player 3 Number=9
+Player 4 Number=8
+
+
+AWAY TEAM PLAYERS ON BENCH NUMBERS
+Player 1 Number=7
+Player 2 Number=8
+Player 3 Number=9
+Player 4 Number=10
+Player 5 Number=11
+Player 6 Number=12
+Player 7 Number=13
+Player 8 Number=14
+Player 9 Number=15
+Player 10 Number=16
+Player 11 Number=17
+Player 12 Number=18
+Player 13 Number=19
+Player 14 Number=20
+
+
+CURRENT SERVER INFORMATION
+CURRENT SERVER NAME=Home Team Player 1
+CURRENT SERVER NUMBER=1
+CURRENT SERVER PICTURE=resource/images/default_user_picture.png
+
+
+IN GAME DATA
+Home Team Score=3
+Away Team Score=0
+Home Team Sets Won=0
+Away Team Sets Won=0
+Home Team Substitutions Taken=1
+Away Team Substitutions Taken=0
+Home Team Substitutions Left=17
+Away Team Substitutions Left=18
+Home Team Time Outs Taken=0
+Away Team Time Outs Taken=0
+Home Team Sets Won=0
+Away Team Sets Won=0
+
+
+HOME TEAM INDIVIDUAL SET SCORES INFORMATION
+Home Team Set 1 Score=0
+Home Team Set 2 Score=0
+Home Team Set 3 Score=0
+Home Team Set 4 Score=0
+Home Team Set 5 Score=0
+Home Team Set 6 Score=0
+Home Team Set 7 Score=0
+
+
+AWAY TEAM INDIVIDUAL SET SCORES INFORMATION
+Away Team Set 1 Score=0
+Away Team Set 2 Score=0
+Away Team Set 3 Score=0
+Away Team Set 4 Score=0
+Away Team Set 5 Score=0
+Away Team Set 6 Score=0
+Away Team Set 7 Score=0
+
+
+SELECTED PLAYER INFORMATION
+Player Name= Home Team Player 1
+Player Number= 1
+Player Image= resource/images/default_user_picture.png
